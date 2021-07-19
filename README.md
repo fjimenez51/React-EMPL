@@ -5,7 +5,7 @@
 
 [Github Repo](https://github.com/fjimenez51/React-EMPL)
 
-![Screen Shot1](/assets/images/Screenshot.png?raw=true "Screen Shot1")
+![Screen Shot1](/assets/images/Screenshot.png?raw=true "Screen Shot")
 
 
 
