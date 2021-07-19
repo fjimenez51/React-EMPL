@@ -21,24 +21,25 @@ The employee list was populated by an API GET Request to https://randomuser.me. 
 
 ## Installation:
 
-Step 1 - Make sure you have a code editor, Node.js and Node Package Manager installed
-
-
-Step 2 - Clone repository
+ Clone repository
 
  "git clone https://github.com/fjimenez51/React-EMPL"
 
-Step 3 - Move to the correct directory
+
+Move to the correct directory
 
 Type the following in your command line: "cd React-EMPL"
 
-Step 4 - Install NPM/Yarn dependencies
+
+Install NPM/Yarn dependencies
 
 By typing "npm install" or "yarn install" you will download all of the dependencies required for this application.
 
-Step 5 - Start the application on your local server
+
+Start the application on your local server
 
 Type the following script in your command line: "npm start" or "yarn start" and your internet browser will open a webpage on localhost:3000.  
+
 
 ## Technology used
 * Node.js, HTML, CSS, JavaScript, Axios, Bootstrap, React
