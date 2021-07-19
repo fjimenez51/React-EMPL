@@ -1,9 +1,9 @@
 # React-Employee-Directory
 
 
-[Live Website](https://fjimenez51.github.io/React-EMPL/).
+![Live Website](https://fjimenez51.github.io/React-EMPL/).
 
-[Github Repo](https://github.com/fjimenez51/React-EMPL)
+![Github Repo](https://github.com/fjimenez51/React-EMPL)
 
 ![Screen Shot1](/assets/images/Screenshot.png?raw=true "Screen Shot")
 
