@@ -1,7 +1,7 @@
 # React-Employee-Directory
 
 
-[Live Website](https://fjimenez51.github.io/React-EMPL/).
+[Live Site](https://sheltered-crag-32152.herokuapp.com/).
 
 [Github Repo](https://github.com/fjimenez51/React-EMPL)
 
